@@ -1,4 +1,4 @@
-package com.aigreentick.eureka_server;
+package com.aigreentick.registry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
